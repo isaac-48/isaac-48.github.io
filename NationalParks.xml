@@ -1,6 +1,6 @@
 <NationalParks>
   <!-- 01 -->
-  <NationalPark rating="4.5">
+  <NationalPark Rating="4.5">
     <Name>Yellowstone National Park</Name>
     <Phone>(307) 344-7381</Phone>
     <Address NearestAirport="Jackson Hole Airport">
@@ -13,7 +13,7 @@
   </NationalPark>
   
   <!-- 02 -->
-  <NationalPark rating="4.5">
+  <NationalPark Rating="4.5">
     <Name>Yosemite National Park</Name>
     <Phone>(209) 372-0200</Phone>
     <Address NearestAirport="Fresno Yosemite International">
@@ -26,7 +26,7 @@
   </NationalPark>
   
   <!-- 03 -->
-  <NationalPark rating="4.5">
+  <NationalPark Rating="4.5">
     <Name>Grand Canyon National Park</Name>
     <Phone>(928) 638-7888</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
@@ -39,7 +39,7 @@
   </NationalPark>
 
   <!-- 04 -->
-  <NationalPark rating="4.7">
+  <NationalPark Rating="4.7">
     <Name>Zion National Park</Name>
     <Phone>(435) 772-3256</Phone>
     <Address NearestAirport="St. George Regional Airport">
@@ -52,7 +52,7 @@
   </NationalPark>
 
   <!-- 05 -->
-  <NationalPark rating="4.5">
+  <NationalPark Rating="4.5">
     <Name>Glacier National Park</Name>
     <Phone>(406) 888-7800</Phone>
     <Address NearestAirport="Glacier Park International Airport">
@@ -65,7 +65,7 @@
   </NationalPark>
 
   <!-- 06 -->
-  <NationalPark rating="4.7">
+  <NationalPark Rating="4.7">
     <Name>Great Smoky Mountains National Park</Name>
     <Phone>(865) 436-1200</Phone>
     <Address NearestAirport="McGhee Tyson Airport">
@@ -78,7 +78,7 @@
   </NationalPark>
   
   <!-- 07 -->
-  <NationalPark rating="4.6">
+  <NationalPark Rating="4.6">
     <Name>Rocky Mountain National Park</Name>
     <Phone>(970) 586-1206</Phone>
     <Address NearestAirport="Denver International	Airport">
@@ -91,7 +91,7 @@
   </NationalPark>
   
   <!-- 08 -->
-  <NationalPark rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Sequoia National Park</Name>
     <Phone>(559) 565-3341</Phone>
     <Address NearestAirport="Fresno Yosemite International Airport">
@@ -104,7 +104,7 @@
   </NationalPark>
   
   <!-- 09 -->
-  <NationalPark rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Olympic National Park</Name>
     <Phone>(360) 565-3130</Phone>
     <Address NearestAirport="Seattle-Tacoma International Airport">
@@ -117,7 +117,7 @@
   </NationalPark>
   
   <!-- 10 -->
-  <NationalPark rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Grand Teton National Park</Name>
     <Phone>(307) 739-3399</Phone>
     <Address NearestAirport="Jackson Hole Airport">
